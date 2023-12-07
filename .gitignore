@@ -1,3 +1,6 @@
 # Ignore virtual environment folders
-envs
-new_venv
+env/
+
+web_project/web_project/__pycache__/
+web_project/users/__pycache__/
+web_project/users/migrations/__pycache__/
